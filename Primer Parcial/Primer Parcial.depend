@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1602568071 source:c:\users\federico\desktop\archivos varios\programacion\c\primer parcial\entradaysalida.c
+	<stdio.h>
+	<stdlib.h>
+	"EntradaySalida.h"
+	<string.h>
+	<ctype.h>
+
+1602568057 c:\users\federico\desktop\archivos varios\programacion\c\primer parcial\entradaysalida.h
+
+1602628771 source:c:\users\federico\desktop\archivos varios\programacion\c\primer parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mascota_raza.h"
+	"Pais_mascota.h"
+
+1602632856 source:c:\users\federico\desktop\archivos varios\programacion\c\primer parcial\mascota_raza.c
+	<stdlib.h>
+	<stdio.h>
+	"EntradaySalida.h"
+	"Mascotas.h"
+	"Raza.h"
+	"Pais.h"
+	"Mascota_raza.h"
+	"Pais_mascota.h"
+	<ctype.h>
+
+1602630515 c:\users\federico\desktop\archivos varios\programacion\c\primer parcial\mascotas.h
+	"Raza.h"
+
+1602632454 c:\users\federico\desktop\archivos varios\programacion\c\primer parcial\raza.h
+	"Pais.h"
+
+1602999004 source:c:\users\federico\desktop\archivos varios\programacion\c\primer parcial\raza.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Raza.h"
+	"EntradaySalida.h"
+
+1602628734 c:\users\federico\desktop\archivos varios\programacion\c\primer parcial\mascota_raza.h
+	"Mascotas.h"
+	"Raza.h"
+	"Pais.h"
+
+1602630515 source:c:\users\federico\desktop\archivos varios\programacion\c\primer parcial\mascotas.c
+	<stdlib.h>
+	<stdio.h>
+	"string.h"
+	<ctype.h>
+	"Mascotas.h"
+	"EntradaySalida.h"
+
+1602628528 c:\users\federico\desktop\archivos varios\programacion\c\primer parcial\pais.h
+
+1602632856 c:\users\federico\desktop\archivos varios\programacion\c\primer parcial\pais_mascota.h
+	"Mascota_raza.h"
+
+1602632882 source:c:\users\federico\desktop\archivos varios\programacion\c\primer parcial\pais_mascota.c
+	<stdio.h>
+	<stdlib.h>
+	"Pais.h"
+	"Pais_mascota.h"
+	"Mascotas.h"
+	"Raza.h"
+	<string.h>
+
+1602628528 source:c:\users\federico\desktop\archivos varios\programacion\c\primer parcial\pais.c
+	"Pais.h"
+	<stdio.h>
+	<string.h>
+

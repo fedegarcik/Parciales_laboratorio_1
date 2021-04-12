@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1607497949 source:c:\users\federico\desktop\archivos varios\utn\programacion\c\parciales\segundo parcial\concursante.c
+	"Concursante.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"EntradaySalida.h"
+	<time.h>
+
+1607497980 c:\users\federico\desktop\archivos varios\utn\programacion\c\parciales\segundo parcial\concursante.h
+	"LinkedList.h"
+
+1607495962 c:\users\federico\desktop\archivos varios\utn\programacion\c\parciales\segundo parcial\linkedlist.h
+
+1601632356 c:\users\federico\desktop\archivos varios\utn\programacion\c\parciales\segundo parcial\entradaysalida.h
+
+1607417811 source:c:\users\federico\desktop\archivos varios\utn\programacion\c\parciales\segundo parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Parser.h"
+	"Concursante.h"
+	"EntradaySalida.h"
+
+1606173782 c:\users\federico\desktop\archivos varios\utn\programacion\c\parciales\segundo parcial\parser.h
+	"LinkedList.h"
+	"stdlib.h"
+	"stdio.h"
+
+1601647239 source:c:\users\federico\desktop\archivos varios\utn\programacion\c\parciales\segundo parcial\entradaysalida.c
+	<stdio.h>
+	<stdlib.h>
+	"EntradaySalida.h"
+	<string.h>
+	<ctype.h>
+
+1607496351 source:c:\users\federico\desktop\archivos varios\utn\programacion\c\parciales\segundo parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1607572342 source:c:\users\federico\desktop\archivos varios\utn\programacion\c\parciales\segundo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"EntradaySalida.h"
+	"Concursante.h"
+
+1606969375 c:\users\federico\desktop\archivos varios\utn\programacion\c\parciales\segundo parcial\controller.h
+
+1607033826 source:c:\users\federico\desktop\archivos varios\utn\programacion\c\parciales\segundo parcial\parser.c
+	"Parser.h"
+	"Concursante.h"
+	<string.h>
+
